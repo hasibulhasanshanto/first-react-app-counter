@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.count-card {
+  margin: 20px 100px;
+  padding: 100px;
+  border: 2px solid blueviolet;
+  border-radius: 25px;
+  background-color: chartreuse;
+  color: black;
+}
+
+.mx-2 {
+  margin: 0 10px;
+}
